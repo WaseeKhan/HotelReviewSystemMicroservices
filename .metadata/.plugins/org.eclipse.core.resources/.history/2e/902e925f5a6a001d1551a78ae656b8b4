@@ -1,0 +1,5 @@
+package com.lucifer.lab.controller;
+
+public class UserController {
+
+}

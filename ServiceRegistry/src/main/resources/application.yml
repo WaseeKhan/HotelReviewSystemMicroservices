@@ -1,0 +1,14 @@
+server:
+  port: 8084
+  
+  #Below both propties by default is true 
+  #Set as False so that ServiceRegistry do not regist autmatically
+eureka: 
+  client: 
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    waitTimeInMsWhenSyncEmpty : 0
+
+  instance: 
+    hostname: localhost

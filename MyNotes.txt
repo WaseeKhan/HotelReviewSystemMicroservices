@@ -1,0 +1,24 @@
+Important Notes:
+
+UserService:
+Port: 8081
+
+Hotel Service:
+Port: 8082
+
+RatingService:
+Port: 8083
+
+
+ServiceRegistry:
+Posrt: 8084
+
+Download Source and javadoc :
+Run mvn command from below site:
+https://www.baeldung.com/maven-download-sources-javadoc
+---> mvn dependency:sources dependency:resolve -Dclassifier=javadoc
+
+
+-------Swagger URL
+http://localhost:8100/swagger-ui/index.html
+

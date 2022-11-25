@@ -1,0 +1,8 @@
+package com.lucifer.lab.impl;
+
+
+import com.lucifer.lab.services.UserService;
+
+public class UserServiceImpl implements UserService{
+
+}
