@@ -1,5 +1,0 @@
-package com.lucifer.lab.repository;
-
-public interface UserRepository {
-
-}

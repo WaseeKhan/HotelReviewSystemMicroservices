@@ -1,5 +1,0 @@
-package com.lucifer.lab.exception;
-
-public class ResourceNotFoundException {
-
-}

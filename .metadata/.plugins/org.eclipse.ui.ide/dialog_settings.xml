@@ -43,6 +43,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Workspace\HotelReviewSystemMicroservices\RatingService"/>
+			<item value="D:\Workspace\HotelReviewSystemMicroservices\UserService"/>
+			<item value="D:\Workspace\HotelReviewSystemMicroservices\HotelService"/>
 			<item value="D:\Workspace\LearnMicroservices\RatingService"/>
 			<item value="D:\Workspace\LearnMicroservices\HotelService"/>
 			<item value="D:\Workspace\LearnMicroservices\eurekaServer"/>
